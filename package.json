@@ -1,0 +1,25 @@
+{
+  "name": "NodeAPI",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de API com Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gease-RS/NodeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gease-RS/NodeAPI/issues"
+  },
+  "homepage": "https://github.com/Gease-RS/NodeAPI#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "http": "0.0.0"
+  }
+}
